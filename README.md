@@ -8,3 +8,6 @@ This is the repo in this repo I've trained resnet18 model using pytorch and conv
 4.tflitefp16 to tflitefp8 int8
 
 and infered the model to infer int8 model you need edge device and some compatibility which might your local system don't support
+
+
+please contribuite to this branch for every model and made changes if you find any mistake 
